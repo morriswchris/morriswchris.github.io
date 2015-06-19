@@ -90,13 +90,12 @@ ul {
     text-align: left;
     width: 100%;
     height: 94vh;
-    overflow: overlay;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
     word-wrap:break-word;
 }
 
 #output-content {
-    overflow: scroll;
-    -webkit-overflow-scrolling: touch;
     margin: 10px;
     max-width:1000px;
 }
