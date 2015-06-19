@@ -96,6 +96,7 @@ ul {
 
 #output-content {
     overflow: scroll;
+    -webkit-overflow-scrolling: touch;
     margin: 10px;
     max-width:1000px;
 }
