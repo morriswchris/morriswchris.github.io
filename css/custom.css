@@ -48,7 +48,7 @@ span.block-cursor {
     background-color: #cbcfd5;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-size: 75%;
     padding-bottom: 10px;
     color: #66d9ef;
@@ -77,6 +77,9 @@ span#command {
 
 span.block {
   font-size: 95%;
+}
+.body {
+    font-size: 50%;    
 }
 
 ul {
